@@ -7,9 +7,6 @@ tags: [Free-Software, GNU, Open-source, License]
 author_profile: false
 toc: true
 use_math: false
-sidebar:
-    nav: "counts"
-
 ---
 
 

@@ -7,8 +7,6 @@ tags: [코드트리, 코딩테스트, 코딩테스트실력진단]
 author_profile: false
 toc: false
 use_math: false
-sidebar:
-    nav: "counts"
 ---
 
 
