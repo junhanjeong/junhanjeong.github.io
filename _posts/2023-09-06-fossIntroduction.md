@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "오픈소스의 등장과 여러가지 라이센스"
+title: "[오픈소스SW개론] 오픈소스의 등장과 여러가지 라이센스"
 typora-root-url: ../
 categories: openSource-SW-introduction
 tags: [Free-Software, GNU, Open-source, License]
