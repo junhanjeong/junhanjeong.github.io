@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Jeong의 발전스토리"
+title                    : "Junhan's log"
 title_separator          : "|"
-subtitle                 : "Growing Day by Day"
+subtitle                 : "Growing day by day"
 name                     : "Junhan Jeong"
 description              : "Junhan의 블로그 입니다."
 url                      : "https://junhanjeong.github.io"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Junhan Jeong"
+  name             : "정준한"
   avatar           : "/assets/images/blog_logo_black_cut2.png"
-  bio              : "Junhan의 성장 블로그입니다"
+  bio              : ""
   location         : "South Korea"
   email            : 
   links:
@@ -277,5 +277,6 @@ defaults:
       show_date: true
       toc_sticky: true
       toc_label: 목차
+      toc_icon: "fa-solid fa-thumbtack"
 
 date_format: "%Y-%m-%d"
