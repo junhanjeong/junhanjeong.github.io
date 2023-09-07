@@ -20,7 +20,7 @@ title                    : "Junhan's log"
 title_separator          : "|"
 subtitle                 : "Growing day by day"
 name                     : "Junhan Jeong"
-description              : "Junhan의 블로그 입니다."
+description              : "성장하고싶은 컴공생의 일지"
 url                      : "https://junhanjeong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "정준한"
   avatar           : "/assets/images/blog_logo_black_cut2.png"
-  bio              : ""
+  bio              : "성장하고싶은 컴공생의 일지"
   location         : "South Korea"
   email            : 
   links:
