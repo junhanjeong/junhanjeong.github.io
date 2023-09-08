@@ -14,7 +14,7 @@ use_math: false
 # 들어가기에 앞서 #
 
 앞으로 학교 컴퓨터공학과 전공 수업인 오픈소스SW개론에 대해 복습한 내용을 적어보려고 합니다.  
-시작은 오픈소스의 개념, License에 대한 내용부터 Bash, Git, Numpy, panas 사용, 그리고 AI 관련인 Scikit-Learn, Tensorflow로 이어질 예정입니다. 
+시작은 오픈소스의 개념, License에 대한 내용부터 Bash, Git, Numpy, pandas 사용, 그리고 AI 관련인 Scikit-Learn, Tensorflow로 이어질 예정입니다. 
 
 오늘은 오픈소스의 등장배경과 여러가지 종류의 라이센스들에 대해 적어보도록 하겠습니다.
 
