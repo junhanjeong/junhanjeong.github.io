@@ -88,6 +88,14 @@ Command 모드에서 ':'를 치시고 w를 통해 저장하고 q를 통해 나�
 참고로 알려드리면 실수로 Ctrl-s를 누르면 갑자기 멈춰서 esc를 눌러도 먹통이 되는데 Ctrl-q를 누르시면 나가실 수 있습니다.  
 그냥 먹통이 되시면 Ctrl-q, Ctrl-c, q 등등을 누르시면 빠져나가실 수 있을 겁니다.
 
+## 초보자를 위한 도움될만한 명령어
+
+```shell
+ls # 해당 경로 폴더의 파일들을 보여줌
+cd /folderName/ # ls에 존재하는 폴더를 foldername에 적으시면 그 폴더로 경로 이동합니다.
+clear # 명령어가 너무 많아서 shell이 꽉 차면 clear할 수 있습니다.
+```
+
 # GCC 설치, 사용법
 
 ## GCC 설치
@@ -200,6 +208,14 @@ gcc -Wall -o sum main.o sum.o
 ```
 
 main.o, sum.o를 만들고 실행파일을 만드는데 3줄이 필요합니다.
+
+## Make 설치
+
+```shell
+sudo apt install make
+```
+
+위 명령어로 설치하시면 됩니다.
 
 ## 사용법
 
