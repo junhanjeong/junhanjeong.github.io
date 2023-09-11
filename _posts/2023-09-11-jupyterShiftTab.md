@@ -13,11 +13,11 @@ use_math: false
 
 
 
-## 현상
+# 현상
 
 tab으로 자동완성 기능은 잘 되나 shift tab으로 tooltip이 뜨지 않을때
 
-## 해결법
+# 해결법
 
 ipython이 깔려있는지 확인하세요.
 
