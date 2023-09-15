@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[시스템 프로그래밍] 1.5.5 GDB"
+title: "[시스템 프로그래밍] 1.5.5 GDB 디버거 간단한 사용법"
 typora-root-url: ../
 categories: System-Programming
 tags: [GDB]
